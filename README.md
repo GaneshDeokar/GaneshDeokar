@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaneshDeokar
 - 👀 I’m interested in Front End Devlopement
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React js
 - 📫 Mail me for Collaboration- deokarg201920@gmail.com
 
 <!---
